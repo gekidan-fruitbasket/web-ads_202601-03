@@ -1,0 +1,13 @@
+{
+  "name": "web-ads_202601-03",
+  "version": "1.0.0",
+  "description": "劇団フルーツバスケット Web広告戦略サマリー",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
